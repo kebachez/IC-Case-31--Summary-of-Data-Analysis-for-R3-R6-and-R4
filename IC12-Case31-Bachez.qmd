@@ -316,7 +316,7 @@ bind_rows(
 
 Three areas need attention:
 
-- **Loan processes are rated lowest.** Only 57.8% agree that loan applications are simple and easy, and 60.2% that loans are processed promptly. Both are still above neutral (p < .001), but this fits the earlier finding that members see no reason to borrow here.
+- **Loan processes are rated lowest.** Only 57.8% agree that loan applications are simple and easy, and 60.2% that loans are processed promptly. Both are still above neutral (p < .001), but this fits the R2 finding from the previous report that members see no loan rate advantage here.
 - **Statements may come too rarely.** 22.7% of members say statements come "not often enough," so frequency falls short of the "about right" ideal (M = 2.77, t(127) = −6.10, p < .001).
 - **Confidentiality is not universal.** Among members who answered, 69.8% say their accounts are kept confidential, but almost a third (30.2%) say they are not (χ²(1) = 16.64, p < .001; @tbl-r6-q12). Another 22 members gave no answer.
 
@@ -524,7 +524,7 @@ bind_rows(
 
 ## R4c: Insight
 
-**Insight.** Members in both locations judge the credit union's operations about the same, with one exception: **the loan application**. Members in the headquarters area find loan applications *less* simple and easy (M = 3.28) than members elsewhere (M = 3.61). The difference is significant (Welch t(94.2) = −2.28, p = .025; @tbl-r4c-t). Only 49.1% of HQ-area members agree the forms are simple, compared with 64.8% elsewhere, and 21.1% of HQ-area members disagree, compared with 5.6% (@fig-r4c). HQ-area members are also more divided on this item, which is why the Welch test is used.
+**Insight.** Members in both locations judge the credit union's operations about the same, with one exception: **the loan application**. Members in the headquarters area find loan applications *less* simple and easy (M = 3.28) than members elsewhere (M = 3.61). The difference is significant (Welch t(94.2) = −2.28, p = .025; @tbl-r4c-t). Only 49.1% of HQ-area members agree the forms are simple, compared with 64.8% elsewhere, and 21.1% of HQ-area members disagree, compared with 5.6% (@fig-r4c).
 
 On every other measure, the two groups do not differ (all p > .10; @tbl-r4c-t, @tbl-r4c-chi). That includes statement frequency and accuracy, confidentiality, loan promptness, meeting needs, and overall management. HQ-area members are somewhat less likely to say their accounts are kept confidential (63.3% vs. 75.4%), but the difference is not significant (χ²(1) = 1.85, p = .173; @tbl-r4c-xtab, @tbl-r4c-chi).
 
@@ -560,7 +560,7 @@ tibble(
 ## Links
 
 - **GitHub Repository:** [View Repository](https://github.com/kebachez/IC-Case-31--Summary-of-Data-Analysis-for-R3-R6-and-R4.git)
-- **GitHub Pages:** [View Published Report](https://kebachez.github.io/IC12-Case31/)
+- **GitHub Pages:** [View Published Report](https://kebachez.github.io/IC-Case-31--Summary-of-Data-Analysis-for-R3-R6-and-R4/)
 
 ## R Code
 
